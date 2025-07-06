@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inspire_Quote_app/static/css/main.927be04c.css",
+    "main.js": "/Inspire_Quote_app/static/js/main.af216145.js",
+    "static/js/453.1ffe3b87.chunk.js": "/Inspire_Quote_app/static/js/453.1ffe3b87.chunk.js",
+    "index.html": "/Inspire_Quote_app/index.html",
+    "main.927be04c.css.map": "/Inspire_Quote_app/static/css/main.927be04c.css.map",
+    "main.af216145.js.map": "/Inspire_Quote_app/static/js/main.af216145.js.map",
+    "453.1ffe3b87.chunk.js.map": "/Inspire_Quote_app/static/js/453.1ffe3b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927be04c.css",
+    "static/js/main.af216145.js"
+  ]
+}
